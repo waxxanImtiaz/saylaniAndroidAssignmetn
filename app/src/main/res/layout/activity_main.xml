@@ -60,8 +60,8 @@
         android:layout_below="@+id/tv_date_of_birth"
         android:text="Submit"
         android:layout_marginTop="30dp"
-        android:paddingLeft="150dp"
-        android:paddingRight="150dp"
+        android:paddingLeft="140dp"
+        android:paddingRight="140dp"
         android:id="@+id/submit"
         />
 
